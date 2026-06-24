@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>use of murged tag</title>
+</head>
+<body>
+<table border="n">
+|<tr>
+<th colspan="4">Animals</th>
+<th colspan="4">Birds</th>
+</tr>
+<tr>
+	<td colspan="2">
+		<ol>
+			<li>Cat</li>
+			<li>Rat</li>
+			<li>Dog</li>
+		</ol>
+	</td>
+	<td colspan="2">
+		<ol start="4">
+<li>Rabbit</li>
+<li>Cat</li>
+<li>Buffalow</li>
+</ol>
+	</td>
+	<td colspan="4">
+<ol>
+	<li>Crow</li>
+	<li>Parrot</li>
+	<li>Eagle</li>
+	<li>Sparrow</li>
+</ol>
+	</td>
+</tr>
+<tr>
+	<td>1</td>
+	<td>2</td>
+	<td>5</td>
+	<td>6</td>
+	<td>9</td>
+	<td>10</td>
+	<td>A</td>
+	<td>B</td>
+</tr>
+<tr>
+<td>3</td>
+<td>4</td>
+<td>7</td>
+<td>8</td>
+<td>11</td>
+<td>12</td>
+<td>C</td>
+<td>B</td>
+</tr>
+</table>
+</body>
+</html>
